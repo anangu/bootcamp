@@ -31,6 +31,21 @@ public class Main {
         System.out.println("10 / 5 = " + result);
         result %= 2;
         System.out.println("2 % 2 = " + result);
+        boolean isAlien = false;
+        if (isAlien == false)
+        {
+            System.out.println("I`m not an Alien");
+        }
+        if (!isAlien)
+        {
+            System.out.println("I`m an Alien");
+        }
+       boolean iscar = true;
+        boolean wascar = iscar ? true : false;
+                if (wascar)
+        {
+            System.out.println("WasCar is True");
+        }
 
 
     }
